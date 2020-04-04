@@ -179,7 +179,7 @@ public class SkiGame extends JFrame implements KeyListener {
 				// is it time to add another obstacle?
 				if (currentTime - startTime > STARTING_DURATION && currentTime - lastObstacleTime > obstacleTime) {
 					obstacles.add(new Obstacle(obstacleSprite, obstacleHitSprite,
-							getIntRanged((obstacleSprite.getWidth() / 2), SCREEN_WIDTH - (obstacleSprite.getWidth() / 2)),
+							getIntRanged(-(obstacleSprite.getWidth() / 2) + 1, SCREEN_WIDTH + (obstacleSprite.getWidth() / 2) - 1),
 							-(obstacleSprite.getHeight() / 2),
 							obstacleSpeed, 20, false));
 					lastObstacleTime = currentTime;
