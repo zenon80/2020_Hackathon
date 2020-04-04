@@ -27,7 +27,7 @@ Denis Roman - Programming and Game Assets
 #### Audio
 * Audacity
 
-#### Hackathon Sponsors:
+## Hackathon Sponsors:
 * **[Shasta Networks](https://shastanetworks.com)**
 * **[SOU CS Club](https://sou.presence.io/organization/computer-science-club-2)**
 * **[Alan and Priscilla Oppenheimer Foundation](https://oppenheimerfoundation.org)**
