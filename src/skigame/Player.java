@@ -1,3 +1,7 @@
+// File: Player.java
+// Author: Denis Roman
+// Date: April 4, 2020
+
 package skigame;
 
 import java.awt.image.BufferedImage;
